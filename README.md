@@ -1,2 +1,1 @@
-# TinDog
-Great Tinder alternative for Your dog!
+TinDog Starting Files
